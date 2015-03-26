@@ -1,7 +1,6 @@
 I've researched long enough...time to give up and just leave it alone already.
 
-I've built my opinions based upon comments here:
-
+I've built my opinions based upon comments here:<br />
 http://superuser.com/questions/789448/choosing-between-bashrc-profile-bash-profile-etc.
 
 Here is a summary:
