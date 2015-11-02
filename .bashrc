@@ -14,16 +14,9 @@ export HISTFILESIZE=1000
 alias ls='ls -a'
 alias cp='cp -iv'
 alias mv='mv -iv'
-alias ..='cd ..'
-alias cl='clear'
-alias wf='cd ~/workspace/workflow/'
-alias commons='cd ~/workspace/uiowa-commons'
 alias mkdir='mkdir -pv'
 alias path='echo -e ${PATH//:/\\n}'
-alias ~='cd ~'
 alias reload='source ~/.profile'
-alias bashrc='vim ~/.bashrc'
-alias prof='vim ~/.profile'
 
 # ------------------------------------------------------------
 # Recursively delete .DS_Store files
